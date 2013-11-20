@@ -25,7 +25,7 @@ class AppKernel extends Kernel
     public function registerBundles()
     {
         // ...
-        new Oodle\KrumoBundle\OodleKrumoBundle()
+        new GoDisco\MailchimpBundle\MailchimpBundle()
     }
 ```
 
