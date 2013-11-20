@@ -1,0 +1,5 @@
+services:
+    mailchimp:
+        class: GoDisco\MailchimpBundle\Mailchimp\Mailchimp
+        arguments:
+            container: "@service_container"

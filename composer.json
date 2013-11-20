@@ -1,0 +1,14 @@
+{
+    "name": "godisco/mailchimp-bundle",
+    "description": "Mailchimp bundle for symfony2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AlmogBaku",
+            "email": "almog@GoDisco.net"
+        }
+    ],
+    "require": {
+        "mailchimp/mailchimp": "2.0.4"
+    }
+}
