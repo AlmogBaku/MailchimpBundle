@@ -13,7 +13,7 @@ Add this line to your composer.json "require" section:
 ```json
     "require": {
        ...
-       "godisco/mailchimp-bundle": "*"
+       "godisco/mailchimp-bundle": "dev-master"
 ```
 
 Add this to your AppKernel.php (in the registerBundles() section):
