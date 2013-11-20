@@ -1,7 +1,9 @@
 Mailchimp Bundle
 ===========
 
-This bundle wrap the Mailchimp official PHP SDK for using inside symfony as service.
+This bundle wrap the Mailchimp official PHP SDK for using inside Symfony as service.
+
+This bundle uses V2 of Mailchimp API.
 
 Installation:
 -------------
