@@ -9,6 +9,6 @@
         }
     ],
     "require": {
-        "mailchimp/mailchimp": "2.0.4"
+        "mailchimp/mailchimp": "2.0.*"
     }
 }
