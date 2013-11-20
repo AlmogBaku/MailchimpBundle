@@ -1,14 +1,23 @@
 {
     "name": "godisco/mailchimp-bundle",
+    "type": "symfony-bundle",
+    "homepage": "http://www.GoDisco.net",
     "description": "Mailchimp bundle for symfony2",
+    "keywords": ["mailchimp"],
     "license": "MIT",
     "authors": [
         {
             "name": "AlmogBaku",
-            "email": "almog@GoDisco.net"
+            "email": "almog@GoDisco.net",
+            "homepag": "http://www.AlmogBaku.com"
         }
     ],
     "require": {
         "mailchimp/mailchimp": "2.0.*"
-    }
+    },
+    "autoload": {
+        "psr-0": { "GoDisco\\MailchimpBundle": "" }
+    },
+
+    "target-dir": "GoDisco/MailchimpBundle"
 }
